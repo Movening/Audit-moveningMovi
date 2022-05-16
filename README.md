@@ -4,7 +4,7 @@
 https://docs.movening.com/use-cases/security
 
 
-Audit SmartContract Movening (FreshCoin):
+✅Audit SmartContract Movening (FreshCoin):
 
 
 
