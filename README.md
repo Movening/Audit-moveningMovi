@@ -12,3 +12,6 @@ https://github.com/freshcoins/Smart-Contract-Audits/blob/main/Movening_0x014f557
 
 
 ✅ KYC Verification (AnalytixAudit):
+
+
+https://github.com/AnalytixAudit/KYC/blob/main/KYC_Movening.pdf
