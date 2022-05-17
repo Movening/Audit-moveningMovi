@@ -15,3 +15,6 @@ https://github.com/freshcoins/Smart-Contract-Audits/blob/main/Movening_0x014f557
 
 
 https://github.com/AnalytixAudit/KYC/blob/main/KYC_Movening.pdf
+
+
+https://www.pinksale.finance/#/launchpad/0xc167bB413c87CE09A9a6a44a31A5577b9A12eAE1?chain=BSC
